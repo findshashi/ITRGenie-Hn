@@ -1,0 +1,47 @@
+{
+  "title": "ITRGenie टैक्स कैलकुलेटर",
+  "subtitle": "AY 2026-27 · FY 2025-26 · रियल-टाइम तुलना",
+  "tabs": {
+    "quick": "त्वरित गणना",
+    "detailed": "विस्तृत विवरण"
+  },
+  "fields": {
+    "ageGroup": "आयु वर्ग",
+    "ageBelow60": "60 वर्ष से कम",
+    "age60to80": "वरिष्ठ नागरिक (60–80)",
+    "ageAbove80": "अति वरिष्ठ नागरिक (80+)",
+    "grossIncome": "कुल आय",
+    "deductions": "अध्याय VI-A कटौतियाँ",
+    "deductionsHint": "80C, 80D, 80CCD, HRA, होम लोन आदि",
+    "salaryIncome": "वेतन आय",
+    "businessIncome": "व्यवसाय आय",
+    "houseProperty": "मकान संपत्ति आय",
+    "otherIncome": "अन्य आय",
+    "deduction80C": "80C (अधिकतम ₹1.5 लाख)",
+    "deduction80D": "80D स्वास्थ्य बीमा",
+    "hraExemption": "HRA छूट",
+    "homeLoanInterest": "होम लोन ब्याज"
+  },
+  "results": {
+    "oldRegimeTax": "पुरानी व्यवस्था कर",
+    "newRegimeTax": "नई व्यवस्था कर",
+    "bestRegime": "आपके लिए सर्वोत्तम व्यवस्था",
+    "youSave": "आप बचत करते हैं",
+    "particulars": "विवरण",
+    "old": "पुरानी",
+    "new": "नई",
+    "grossIncome": "कुल आय",
+    "standardDeduction": "मानक कटौती",
+    "totalDeductions": "कुल कटौतियाँ",
+    "taxableIncome": "कर योग्य आय",
+    "taxPayable": "देय कर",
+    "bestForYou": "आपके लिए सर्वोत्तम"
+  },
+  "notes": {
+    "stdDeduction": "मानक कटौती: ₹50,000 (पुरानी) · ₹75,000 (नई)",
+    "capitalGains": "पूंजीगत लाभ पर विशेष दरें लागू होती हैं — अपने CA से परामर्श करें।",
+    "surcharge": "₹50 लाख से अधिक आय पर अधिभार। 4% उपकर शामिल।",
+    "disclaimer": "यह एक अनुमान है। किसी प्रमाणित पेशेवर के साथ ITR दाखिल करें।",
+    "realtime": "रियल-टाइम गणना · 4% उपकर और अधिभार सहित · केवल अनुमान"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "ITRGenie Tax Calculator",
+  "subtitle": "AY 2026-27 · FY 2025-26 · Real-time comparison",
+  "tabs": {
+    "quick": "Quick Calculate",
+    "detailed": "Detailed Breakdown"
+  },
+  "fields": {
+    "ageGroup": "Age group",
+    "ageBelow60": "Below 60 years",
+    "age60to80": "Senior (60–80)",
+    "ageAbove80": "Super Senior (80+)",
+    "grossIncome": "Gross total income",
+    "deductions": "Chapter VI-A Deductions",
+    "deductionsHint": "80C, 80D, 80CCD, HRA, Home Loan, etc.",
+    "salaryIncome": "Salary income",
+    "businessIncome": "Business income",
+    "houseProperty": "House property income",
+    "otherIncome": "Other income",
+    "deduction80C": "80C (max ₹1.5L)",
+    "deduction80D": "80D health insurance",
+    "hraExemption": "HRA exemption",
+    "homeLoanInterest": "Home loan interest"
+  },
+  "results": {
+    "oldRegimeTax": "Old regime tax",
+    "newRegimeTax": "New regime tax",
+    "bestRegime": "Best Regime For You",
+    "youSave": "You save with",
+    "particulars": "Particulars",
+    "old": "Old",
+    "new": "New",
+    "grossIncome": "Gross income",
+    "standardDeduction": "Standard deduction",
+    "totalDeductions": "Total deductions",
+    "taxableIncome": "Taxable income",
+    "taxPayable": "Tax payable",
+    "bestForYou": "Best for you"
+  },
+  "notes": {
+    "stdDeduction": "Standard deduction: ₹50,000 (Old) · ₹75,000 (New)",
+    "capitalGains": "Capital gains are taxed at special rates — consult your CA.",
+    "surcharge": "Surcharge applied for income above ₹50 Lakh. Cess @ 4% included.",
+    "disclaimer": "This is an estimate. File your ITR with a verified professional.",
+    "realtime": "Real-time calculation · Includes 4% cess & surcharge · Estimates only"
+  }
+}

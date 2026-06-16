@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "products": "Products",
+    "resources": "Resources",
+    "taxTools": "Tax Tools",
+    "pricing": "Pricing",
+    "howItWorks": "How it works",
+    "login": "Login",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "badge": "Income Tax e-filing simplified · AY 2026-27",
+    "title": "File Your ITR with",
+    "brand": "ITRGenie",
+    "subtitle": "Automated document upload, draft PDF generation, expert review & end-to-end digital KYC workflow for all ITR forms.",
+    "ctaPrimary": "Start Filing Now",
+    "ctaSecondary": "View Pricing"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "next": "Next",
+    "back": "Back",
+    "submit": "Submit"
+  }
+}
